@@ -2,6 +2,7 @@
 layout: post
 title: Boosting MVVM with Protocol Oriented Programming in Swift
 date: 2022-03-14 22:56 -0300
+comments: true
 ---
 
 Recently I was playing around with protocol oriented programming and decided to setup and architecture a sample ios project using that as a main principle. Then I got the idea that I could improve the approach of breaking up view-models in workers/useCases with it, so I've implemented [this sample app](https://github.com/pedro-nadolny/swift-mvvm-protocol-oriented) and this post will attempt to explain the idea within it. 

@@ -18,11 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "code & coffe ☕️"
+title: "code & coffee ☕️"
 description: >- # this means to ignore newlines until "baseurl:" 
-  Remember to look up at the stars and not down at your feet. - Hawking, Stephen.
+  Remember to look up at the stars and not down at your feet - Hawking, Stephen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "pedro-nadolny.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+identifier: 
+
+author: 
+  name: Pedro Nadolny
+  email: "pedro.nadolny@gmail.com"
 
 # Build settings
 remote_theme: jekyll/minima
@@ -35,11 +40,10 @@ minima:
     github: pedro-nadolny
     linkedin: pedronadolny
 
-author: 
-  name: Pedro Nadolny
-  email: "pedro.nadolny@gmail.com"
-
 google_analytics: GTM-T6N3J64
+
+disqus:
+  shortname: code-coffee-2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
