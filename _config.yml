@@ -34,12 +34,9 @@ minima:
   social_links:
     github: pedro-nadolny
     linkedin: pedronadolny
-    twitter: ~
 
-author:
-  name: Pedro Nadolny
-  email: "pedro.nadolny@gmail.com"
-
+author: Pedro Nadolny
+email: "pedro.nadolny@gmail.com"
 
 google_analytics: GTM-T6N3J64
 
