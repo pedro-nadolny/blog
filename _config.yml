@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "pedro-nadolny.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
@@ -37,6 +37,10 @@ minima:
 
 author: Pedro Nadolny
 email: "pedro.nadolny@gmail.com"
+
+author: 
+  name: Pedro Nadolny
+  email: "pedro.nadolny@gmail.com"
 
 google_analytics: GTM-T6N3J64
 
